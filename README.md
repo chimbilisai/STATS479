@@ -2,7 +2,7 @@
 
 ## DEEPak Chopra Project
 
-For our final project in Deep Learning, our team created a mimic Twitter account of Deepak Chopra that tweeted unique tweets that sounded similar to what the real Deepak Chopra would tweet. We chose [Deepak Chopra](https://twitter.com/DeepakChopra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), because his tweets were extremely sporadic and unpredictable. By using a Char-RNN and a Word-RNN algorithms, we had some great results and won "Best Oral Presentation" and "Most Creative Project" while placing third in "Best Visualizations." 
+For our final project in Deep Learning, our team created a mimic [Twitter account](https://twitter.com/DEEPestChopra) of Deepak Chopra that tweeted unique tweets that sounded similar to what the real Deepak Chopra would tweet. We chose [Deepak Chopra](https://twitter.com/DeepakChopra?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), because his tweets were extremely sporadic and unpredictable. By using a Char-RNN and a Word-RNN algorithms, we had some great results and won "Best Oral Presentation" and "Most Creative Project" while placing third in "Best Visualizations." 
 
 
 
